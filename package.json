@@ -1,0 +1,8 @@
+{
+  "name": "application-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "author": "IDRIS AIT MOULAY<idris.aitmoulay@gmail.com>",
+  "license": "ISC"
+}
